@@ -1,0 +1,4 @@
+genel
+=====
+
+Genel Çalışmalar
